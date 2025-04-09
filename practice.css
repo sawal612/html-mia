@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    background-image: url(practice.jpg);
+
+}
+.title{
+    text-align: center;
+      font-family: "Caveat", cursive;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+      color: white;
+      margin-top:0px;
+      font-size:100px;
+    
+}
+.mia {
+    text-align: center;
+    color: wheat;
+    font-size: 50px;
+}
